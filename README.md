@@ -291,15 +291,10 @@ docker stats
 - **Container Issues:** `docker-compose down -v` to reset volumes.
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - feel free to use it for educational and commercial purposes.
+MIT License - see the LICENSE file for details.
 
 ## Author
 **Ramesh S**
